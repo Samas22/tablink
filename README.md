@@ -1,4 +1,4 @@
-# 🌐 **TabLink: Construindo um pedaço da internet mais ética e sustentável**
+# 🌐 **TabLink: Construindo a internet mais ética e responsável**
 
 Bem-vindo(a) ao **TabLink**, uma plataforma visionária de **gestão de conhecimento** e colaboração, projetada para enfrentar os desafios da sociedade moderna. O TabLink integra tecnologias de ponta, como **IA generativa**, **IPFS**, **Blockchain** e **autenticação universal segura**, para oferecer um ambiente que prioriza autenticidade, responsabilidade e integridade humana. Nosso objetivo é construir um alicerce para a **internet semântica** — um espaço digital orientado por ética e pelo desenvolvimento do pensamento crítico, com impacto direto em soluções reais para os problemas enfrentados pela sociedade.
 
